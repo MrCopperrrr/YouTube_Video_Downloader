@@ -40,6 +40,7 @@ python main.py
 ```
 
 ## Project Structure
+```bash
 YouTube_Video_Downloader/
 ├── main.py
 ├── ffmpeg.exe
@@ -47,5 +48,6 @@ YouTube_Video_Downloader/
 ├── icon_close.svg
 ├── requirements.txt
 └── README.md
+```
 
 
