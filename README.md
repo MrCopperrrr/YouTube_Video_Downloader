@@ -43,6 +43,7 @@ python main.py
 ```bash
 YouTube_Video_Downloader/
 ├── main.py
+├── downloader.py
 ├── ffmpeg.exe
 ├── icon_minimize.svg
 ├── icon_close.svg
