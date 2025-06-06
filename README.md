@@ -1,7 +1,7 @@
 # YouTube Video Downloader
 
 A simple, stylish desktop application to download YouTube videos and audio using Python and PyQt5.  
-Users can choose video resolution, audio-only mode, subtitles, and output folder — all through a beautiful UI.
+Users can choose video resolution, audio-only mode, and output folder — all through a beautiful UI.
 
 ## Features
 
